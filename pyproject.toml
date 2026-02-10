@@ -1,0 +1,9 @@
+[project]
+name = "slast"
+version = "0.0.1"
+description = "slightly less annoying screenshot tool"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pygobject>=3.54.5",
+]
